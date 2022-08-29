@@ -1,0 +1,15 @@
+/Users/qaisstanikzai/Documents/GitHub/NewProject-helloworld/myApp/myApp/bin/Debug/net6.0/myApp
+/Users/qaisstanikzai/Documents/GitHub/NewProject-helloworld/myApp/myApp/bin/Debug/net6.0/myApp.deps.json
+/Users/qaisstanikzai/Documents/GitHub/NewProject-helloworld/myApp/myApp/bin/Debug/net6.0/myApp.runtimeconfig.json
+/Users/qaisstanikzai/Documents/GitHub/NewProject-helloworld/myApp/myApp/bin/Debug/net6.0/myApp.dll
+/Users/qaisstanikzai/Documents/GitHub/NewProject-helloworld/myApp/myApp/bin/Debug/net6.0/myApp.pdb
+/Users/qaisstanikzai/Documents/GitHub/NewProject-helloworld/myApp/myApp/obj/Debug/net6.0/myApp.csproj.AssemblyReference.cache
+/Users/qaisstanikzai/Documents/GitHub/NewProject-helloworld/myApp/myApp/obj/Debug/net6.0/myApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qaisstanikzai/Documents/GitHub/NewProject-helloworld/myApp/myApp/obj/Debug/net6.0/myApp.AssemblyInfoInputs.cache
+/Users/qaisstanikzai/Documents/GitHub/NewProject-helloworld/myApp/myApp/obj/Debug/net6.0/myApp.AssemblyInfo.cs
+/Users/qaisstanikzai/Documents/GitHub/NewProject-helloworld/myApp/myApp/obj/Debug/net6.0/myApp.csproj.CoreCompileInputs.cache
+/Users/qaisstanikzai/Documents/GitHub/NewProject-helloworld/myApp/myApp/obj/Debug/net6.0/myApp.dll
+/Users/qaisstanikzai/Documents/GitHub/NewProject-helloworld/myApp/myApp/obj/Debug/net6.0/refint/myApp.dll
+/Users/qaisstanikzai/Documents/GitHub/NewProject-helloworld/myApp/myApp/obj/Debug/net6.0/myApp.pdb
+/Users/qaisstanikzai/Documents/GitHub/NewProject-helloworld/myApp/myApp/obj/Debug/net6.0/myApp.genruntimeconfig.cache
+/Users/qaisstanikzai/Documents/GitHub/NewProject-helloworld/myApp/myApp/obj/Debug/net6.0/ref/myApp.dll
